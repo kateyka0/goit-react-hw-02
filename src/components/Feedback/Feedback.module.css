@@ -1,0 +1,4 @@
+.feedbackWrap {
+  display: flex;
+  flex-direction: column;
+}
